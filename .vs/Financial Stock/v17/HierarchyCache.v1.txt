@@ -1,0 +1,603 @@
+﻿++Solution 'Financial Stock' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Financial Stock.sln
+++Financial Stock
+i:{00000000-0000-0000-0000-000000000000}:Financial Stock
+++Connected Services 
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>458
+++Dependencies
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>457
+++Imports
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>158
+++Properties
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\properties\
+++bin
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\
+++Controllers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\controllers\
+++DTO
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\dto\
+++Hubs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\hubs\
+++Migrations
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\migrations\
+++Model
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\
+++obj
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\
+++Services
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\
+++appsettings.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\appsettings.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\appsettings.json
+++Financial Stock.sln
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\financial stock.sln
+++Program.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\program.cs
+++WeatherForecast.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\weatherforecast.cs
+++No service dependencies discovered
+++Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:analyzers
+++Frameworks
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:frameworks
+++Packages
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:packages
+++Sdk.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\properties\launchsettings.json
+++Debug
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\
+++AccountController.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\controllers\accountcontroller.cs
+++ShopingController.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\controllers\shopingcontroller.cs
+++LoginUser.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\dto\loginuser.cs
+++Orderdto.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\dto\orderdto.cs
+++RegisterUser.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\dto\registeruser.cs
+++ChatHub.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\hubs\chathub.cs
+++20240926084948_test.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\migrations\20240926084948_test.cs
+++ContextModelSnapshot.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\migrations\contextmodelsnapshot.cs
+++ApplcationUser.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\applcationuser.cs
+++Context.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\context.cs
+++OrderAuditLog.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\orderauditlog.cs
+++Orders.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\orders.cs
+++OrderStatus.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\orderstatus.cs
+++Stock.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\model\stock.cs
+++Financial Stock.csproj.nuget.dgspec.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\financial stock.csproj.nuget.dgspec.json
+++Financial Stock.csproj.nuget.g.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\financial stock.csproj.nuget.g.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\financial stock.csproj.nuget.g.props
+++Financial Stock.csproj.nuget.g.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\financial stock.csproj.nuget.g.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\financial stock.csproj.nuget.g.targets
+++project.assets.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\project.assets.json
+++project.nuget.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\staticwebassets.pack.sentinel
+++IOrderLogsReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\iorderlogsreposatry.cs
+++IOrderReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\iorderreposatry.cs
+++IOrderstatusReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\iorderstatusreposatry.cs
+++IStockReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\istockreposatry.cs
+++OrderLogsReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\orderlogsreposatry.cs
+++OrderReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\orderreposatry.cs
+++OrderStatusReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\orderstatusreposatry.cs
+++StockReposatry.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\services\stockreposatry.cs
+++appsettings.Development.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\appsettings.development.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\users\dell vostro\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.1)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>480
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.3)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>479
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>477
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>481
+++Swashbuckle.AspNetCore (6.2.3)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>478
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++net6.0
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\
+++20240926084948_test.Designer.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\migrations\20240926084948_test.designer.cs
+++Microsoft.Common.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++runtimes
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\
+++Financial Stock.deps.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\financial stock.deps.json
+++Financial Stock.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\financial stock.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\ref\financial stock.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\refint\financial stock.dll
+++Financial Stock.exe
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\financial stock.exe
+++Financial Stock.pdb
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\financial stock.pdb
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.pdb
+++Financial Stock.runtimeconfig.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\financial stock.runtimeconfig.json
+++Humanizer.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\humanizer.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.aspnetcore.authentication.jwtbearer.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.Data.SqlClient.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Configuration.ConfigurationManager.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.drawing.common.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.runtime.caching.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\system.windows.extensions.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++ref
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\ref\
+++refint
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\refint\
+++staticwebassets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\apphost.exe
+++Financial Stock.AssemblyInfo.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.assemblyinfo.cs
+++Financial Stock.AssemblyInfoInputs.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.assemblyinfoinputs.cache
+++Financial Stock.assets.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.assets.cache
+++Financial Stock.csproj.AssemblyReference.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.csproj.assemblyreference.cache
+++Financial Stock.csproj.BuildWithSkipAnalyzers
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.csproj.buildwithskipanalyzers
+++Financial Stock.csproj.CopyComplete
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.csproj.copycomplete
+++Financial Stock.csproj.CoreCompileInputs.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.csproj.corecompileinputs.cache
+++Financial Stock.csproj.FileListAbsolute.txt
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.csproj.filelistabsolute.txt
+++Financial Stock.GeneratedMSBuildEditorConfig.editorconfig
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.generatedmsbuildeditorconfig.editorconfig
+++Financial Stock.genruntimeconfig.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.genruntimeconfig.cache
+++Financial Stock.GlobalUsings.g.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.globalusings.g.cs
+++Financial Stock.MvcApplicationPartsAssemblyInfo.cache
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.mvcapplicationpartsassemblyinfo.cache
+++Financial Stock.MvcApplicationPartsAssemblyInfo.cs
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\financial stock.mvcapplicationpartsassemblyinfo.cs
+++staticwebassets.build.json
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\obj\debug\net6.0\staticwebassets.build.json
+++Microsoft.NuGet.ImportBefore.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++unix
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\
+++win
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x86\
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\users\dell vostro\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\users\dell vostro\.nuget\packages\swashbuckle.aspnetcore\6.2.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\users\dell vostro\.nuget\packages\microsoft.entityframeworkcore.design\6.0.0\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++lib
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\lib\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\
+++native
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm\native\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x64\native\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x86\native\
+++Microsoft.NET.ILLink.Tasks.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++netcoreapp3.0
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Financial Stock.csproj.user
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:d:\c sharp prog\financial stock\financial stock.csproj.user
+++Microsoft.NET.props
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\users\dell vostro\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft identity platform
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>628
+++For applications that authenticate users with the Microsoft identity platform (Azure AD, Azure AD B2C and personal Microsoft accounts).
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>629
+++SignalR
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>626
+++Your application is making use of SignalR. For environments that need to scale we strongly recommend adding a dependency on Azure SignalR Service.
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>627
+++SQL Server Database
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>630
+++SQL Server Database dependency is detected
+i:{75655c9d-bbae-441f-ae2b-48de9928fb17}:>631

@@ -1,0 +1,67 @@
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\appsettings.Development.json
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\appsettings.json
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Financial Stock.exe
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Financial Stock.deps.json
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Financial Stock.runtimeconfig.json
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Financial Stock.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Financial Stock.pdb
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Humanizer.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c sharp prog\Financial Stock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.csproj.AssemblyReference.cache
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.AssemblyInfoInputs.cache
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.AssemblyInfo.cs
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.csproj.CoreCompileInputs.cache
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.MvcApplicationPartsAssemblyInfo.cs
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.MvcApplicationPartsAssemblyInfo.cache
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\staticwebassets.build.json
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\staticwebassets.development.json
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\scopedcss\bundle\Financial Stock.styles.css
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.csproj.CopyComplete
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.dll
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\refint\Financial Stock.dll
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.pdb
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\Financial Stock.genruntimeconfig.cache
+D:\c sharp prog\Financial Stock\obj\Debug\net6.0\ref\Financial Stock.dll
